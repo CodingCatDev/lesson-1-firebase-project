@@ -1,20 +1,3 @@
-+++
-authors = ["Alex Patterson"]
-lesson = "1"
-title = "Firebase Project"
-description = "Creating a firebase project."
-date = 2018-11-26T14:45:13-05:00
-weight = 20
-draft = false
-bref = "This is a guide to creating your first firebase project."
-toc = true
-tags = ["firebase","setup"]
-categories = ["firebase"]
-languages = ["html"]
-images = ["https://res.cloudinary.com/ajonp/image/upload/f_auto/v1543773086/ajonp-ajonp-com/1-lesson/aj_on_firebase.png"]
-githublinks = ["https://github.com/ajonpllc"]
-+++
-
 # Firebase Hosting setup
 {{< youtube sOn3YMdpYR4 >}}
 
